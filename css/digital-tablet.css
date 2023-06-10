@@ -1,0 +1,17 @@
+@media screen and (min-width: 577px) and (max-width: 992px) {
+  .main{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+  }
+  .row {
+    flex-direction: column;
+  }
+  .section-content{
+    padding: 20px;
+  }
+  .container i{
+   padding-left: 300px;
+  }
+  
+}

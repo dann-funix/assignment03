@@ -1,0 +1,23 @@
+@media screen and (max-width: 576px) {
+  .main{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+  }
+  .row {
+    flex-direction: column;
+  }
+  .section-content{
+    padding: 20px;
+  }
+  .container i{
+   padding:0 130px ;
+  }
+
+  .number-circle{
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+  }
+  
+}

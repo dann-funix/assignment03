@@ -1,0 +1,36 @@
+@media screen and (min-width: 577px) and (max-width: 991px) {
+  /* NAVBAR */
+  .style-name2{
+    display: none;
+  }
+  
+/* INFO */
+  #target{
+    padding-left: 50px;
+  }  
+
+  /* CERTIFICATE */
+ .style-certificate{
+  flex-direction: column;
+ }
+ .style-cer img{
+  width: 180px;
+  height:120px;
+ }
+ .style-cer{
+  padding:0 50px;
+ }
+
+  /* PROJECT */
+  #project .section-title{
+  padding-left: 70px;
+ }
+ .nav-project{
+  display: grid;
+  grid-template-columns: 40% 60%;
+ }
+ .develop{
+  grid-column: 2/-2;
+ }
+ 
+} 
